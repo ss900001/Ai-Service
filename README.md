@@ -17,8 +17,8 @@ Ethical Focus: Ensure that all operations comply with legal and ethical standard
 
 ![Project 4](https://github.com/ss900001/Ai-Service/blob/main/data/4.jpg)
   Contact Me
-- **LinkedIn:** [Youtube](https://www.youtube.com/@ss9oooo1)
-- **Twitter:** [Tiktok](https://www.tiktok.com/@ss900001))
+ [Youtube](https://www.youtube.com/@ss9oooo1)
+ [Tiktok](https://www.tiktok.com/@ss900001))
 
 ### Prerequisites
 - Ensure you have the necessary dependencies installed (e.g., Python, Node.js, etc.).
