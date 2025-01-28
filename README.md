@@ -2,14 +2,22 @@
 A versatile tool for executing commands on Linux and Windows systems seamlessly, enhanced with AI services for automation. The system also features an intelligent question-and-answer process that facilitates interaction.
 
 ## 🚀 Projects
-### [Project 1](https://github.com/ss900001/project1)
+
+### Project 1: [Project Name](https://github.com/ss900001/project1)
+![Project 1](https://via.placeholder.com/150)
 Brief description of Project 1.
 
-### [Project 2](https://github.com/ss900001/project2)
+### Project 2: [Project Name](https://github.com/ss900001/project2)
+![Project 2](https://via.placeholder.com/150)
 Brief description of Project 2.
 
-### [Project 3](https://github.com/ss900001/project3)
+### Project 3: [Project Name](https://github.com/ss900001/project3)
+![Project 3](https://via.placeholder.com/150)
 Brief description of Project 3.
+
+### Project 4: [Project Name](https://github.com/ss900001/project4)
+![Project 4](https://via.placeholder.com/150)
+Brief description of Project 4.
 
 ## 📫 How to Reach Me
 - **Email:** [your-email@example.com](mailto:your-email@example.com)
@@ -89,13 +97,14 @@ I love hiking and exploring new places when I'm not coding.
     cd Ai-Service
     ```
 
-2. **Execute the main file:**
+2. **Make the script executable (if applicable):**
     ```bash
-    # Example for Python projects
-    python main.py
+    chmod +x ai.py
+    ```
 
-    # Example for Node.js projects
-    npm start
+3. **Execute the script:**
+    ```bash
+    ./ai.py
     ```
 
 ### Windows
@@ -105,13 +114,9 @@ I love hiking and exploring new places when I'm not coding.
     cd Ai-Service
     ```
 
-2. **Execute the main file:**
+2. **Execute the script:**
     ```bash
-    # Example for Python projects
-    python main.py
-
-    # Example for Node.js projects
-    npm start
+    python ai.py
     ```
 
 <!--
