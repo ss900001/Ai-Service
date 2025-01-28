@@ -19,10 +19,8 @@ Brief description of Project 3.
 ![Project 4](https://github.com/ss900001/Ai-Service/blob/main/data/4.jpg)
 Brief description of Project 4.
 
-## 📫 How to Reach Me
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- **LinkedIn:** [Youtube](https://www.youtube.com/@ss9oooo1)
+- **Twitter:** [Tiktok](https://www.tiktok.com/@ss900001))
 
 ## 🌱 Currently Learning
 - Advanced algorithms and data structures
