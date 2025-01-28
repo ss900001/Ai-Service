@@ -1,7 +1,13 @@
 # Ai-Service
 A versatile tool for executing commands on Linux and Windows systems seamlessly, enhanced with AI services for automation. The system also features an intelligent question-and-answer process that facilitates interaction.
+Key features include:
 
-## 🚀 Projects
+Simplified User Experience: Easy-to-use tools that reduce the complexity of ethical hacking tasks.
+Web Data Analysis: Scrape, parse, and analyze data from various web sources for actionable insights.
+Automation: Perform repetitive tasks quickly and accurately to save time.
+Ethical Focus: Ensure that all operations comply with legal and ethical standards.
+
+##   screenshots 
 
 ![Project 1](https://github.com/ss900001/Ai-Service/blob/main/data/1.jpg)
 
