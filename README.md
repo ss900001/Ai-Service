@@ -3,21 +3,13 @@ A versatile tool for executing commands on Linux and Windows systems seamlessly,
 
 ## 🚀 Projects
 
-### Project 1: [Project Name](https://github.com/ss900001/project1)
 ![Project 1](https://github.com/ss900001/Ai-Service/blob/main/data/1.jpg)
-Brief description of Project 1.
 
-### Project 2: [Project Name](https://github.com/ss900001/project2)
 ![Project 2](https://github.com/ss900001/Ai-Service/blob/main/data/2.jpg)
-Brief description of Project 2.
 
-### Project 3: [Project Name](https://github.com/ss900001/project3)
 ![Project 3](https://github.com/ss900001/Ai-Service/blob/main/data/3.jpg)
-Brief description of Project 3.
 
-### Project 4: [Project Name](https://github.com/ss900001/project4)
 ![Project 4](https://github.com/ss900001/Ai-Service/blob/main/data/4.jpg)
-Brief description of Project 4.
   Contact Me
 - **LinkedIn:** [Youtube](https://www.youtube.com/@ss9oooo1)
 - **Twitter:** [Tiktok](https://www.tiktok.com/@ss900001))
