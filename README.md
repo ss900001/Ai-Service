@@ -18,24 +18,9 @@ Brief description of Project 3.
 ### Project 4: [Project Name](https://github.com/ss900001/project4)
 ![Project 4](https://github.com/ss900001/Ai-Service/blob/main/data/4.jpg)
 Brief description of Project 4.
-
+  Contact Me
 - **LinkedIn:** [Youtube](https://www.youtube.com/@ss9oooo1)
 - **Twitter:** [Tiktok](https://www.tiktok.com/@ss900001))
-
-## 🌱 Currently Learning
-- Advanced algorithms and data structures
-- Machine learning and artificial intelligence
-- Cloud computing with AWS and Azure
-
-## 💬 Ask Me About
-- Full-stack web development
-- DevOps practices
-- Open source contributions
-
-## ⚡ Fun Fact
-I love hiking and exploring new places when I'm not coding.
-
-## Installation
 
 ### Prerequisites
 - Ensure you have the necessary dependencies installed (e.g., Python, Node.js, etc.).
@@ -117,6 +102,3 @@ I love hiking and exploring new places when I'm not coding.
     python ai.py
     ```
 
-<!--
-**ss900001/ss900001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
